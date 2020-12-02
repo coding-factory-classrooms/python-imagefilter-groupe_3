@@ -1,19 +1,22 @@
 import cv2
 import numpy as np
-
-# Reading the input image
-
-def filtre_img(src):
-    img = cv2.imread(src, 0)
-    # Taking a matrix of size 5 as the kernel
-    kernel = np.ones((5, 5), np.uint8)
+import logger
 
 
-    img_erosion = cv2.erode(img, kernel, iterations=1)
-    img_dilation = cv2.dilate(img, kernel, iterations=1)
 
-    cv2.imshow('Input', img)
-    cv2.imshow('Erosion', img_erosion)
-    cv2.imshow('Dilation', img_dilation)
+def filtre_img(src, file):
+    try:
+        # Reading the input image
+        new_directory = "output"
 
-    cv2.waitKey(0)
+        img = cv2.imread(src)
+        # Taking a matrix of size 5 as the kernel
+        kernel = np.ones((5, 5), np.uint8)
+        logger.log("image : " + file + " dilatée")
+        img_dilation = cv2.dilate(img, kernel, iterations=1)
+
+        cv2.imshow('Dilation', img_dilation)
+        logger.log("image : " + file + " ajoutée au dossier : " + new_directory)
+        cv2.imwrite(f"{new_directory}/{file}", img_dilation)
+    except cv2.error :
+        print("erreur")
