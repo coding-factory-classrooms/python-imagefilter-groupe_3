@@ -1,11 +1,2 @@
-<<<<<<< HEAD
-image : imgs/schtroumpfette.jpg convertie en noir et blanc
-image : imgs/schtroumpfette.jpg ajoutÃ©e au dossier : output
-=======
-image : imgs/panpan.png convertie en noir et blanc
-image : imgs/panpan.png ajoutée au dossier : output
-image : imgs/panpan.png convertie en noir et blanc
-image : imgs/panpan.png ajoutée au dossier : output
-image : imgs/panpan.png convertie en noir et blanc
-image : imgs/panpan.png ajoutée au dossier : output
->>>>>>> f0977fc9aacae6b53e9fec91b1d34797270abf6d
+
+
