@@ -16,4 +16,4 @@ def grayscayle(src):
         cv2.waitKey(0)
         cv2.destroyAllWindows()
     except cv2.error :
-        print("Erreur de saisie : le fichier n'existe pas")
+        print ("Erreur de saisie du chemin")
