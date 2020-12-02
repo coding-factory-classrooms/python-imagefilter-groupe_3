@@ -3,7 +3,7 @@ import numpy as np
 
 # Reading the input image
 
-def gggg(src):
+def filtre_img(src):
     img = cv2.imread(src, 0)
     # Taking a matrix of size 5 as the kernel
     kernel = np.ones((5, 5), np.uint8)
