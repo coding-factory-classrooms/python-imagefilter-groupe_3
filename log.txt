@@ -1,0 +1,2 @@
+image : imgs/schtroumpfette.jpg convertie en noir et blanc
+image : imgs/schtroumpfette.jpg ajoutée au dossier : output
