@@ -1,0 +1,6 @@
+image : imgs/panpan.png convertie en noir et blanc
+image : imgs/panpan.png ajoutée au dossier : output
+image : imgs/panpan.png convertie en noir et blanc
+image : imgs/panpan.png ajoutée au dossier : output
+image : imgs/panpan.png convertie en noir et blanc
+image : imgs/panpan.png ajoutée au dossier : output
