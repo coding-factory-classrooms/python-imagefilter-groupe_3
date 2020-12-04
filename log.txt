@@ -1,53 +1,27 @@
-image : .DS_Store dilatée
+image : .DS_Store ouverte
+image : .DS_Store ouverte
 image : .DS_Store ajoutée au dossier : output
-image : panpan.png dilatée
-image : panpan.png ajoutée au dossier : output
+image : panpan.png ouverte
 image : panpan.png convertie en noir et blanc
 image : panpan.png ajoutée au dossier : output
 image : panpan.png floutée
 image : panpan.png ajoutée au dossier : output
 image : panpan.png ajoutée au dossier : output
-image : the_witcher.jpg dilatée
-image : the_witcher.jpg ajoutée au dossier : output
+image : the_witcher.jpg ouverte
 image : the_witcher.jpg convertie en noir et blanc
 image : the_witcher.jpg ajoutée au dossier : output
 image : the_witcher.jpg floutée
 image : the_witcher.jpg ajoutée au dossier : output
 image : the_witcher.jpg ajoutée au dossier : output
-image : among_us.png dilatée
-image : among_us.png ajoutée au dossier : output
+image : among_us.png ouverte
 image : among_us.png convertie en noir et blanc
 image : among_us.png ajoutée au dossier : output
 image : among_us.png floutée
 image : among_us.png ajoutée au dossier : output
 image : among_us.png ajoutée au dossier : output
-image : schtroumpfette.jpg dilatée
-image : schtroumpfette.jpg ajoutée au dossier : output
+image : schtroumpfette.jpg ouverte
 image : schtroumpfette.jpg convertie en noir et blanc
 image : schtroumpfette.jpg ajoutée au dossier : output
 image : schtroumpfette.jpg floutée
 image : schtroumpfette.jpg ajoutée au dossier : output
 image : schtroumpfette.jpg ajoutée au dossier : output
-image : .DS_Store ajoutée au dossier : output
-image : panpan.png convertie en noir et blanc
-image : panpan.png ajoutée au dossier : output
-image : panpan.png floutée
-image : panpan.png ajoutée au dossier : output
-image : panpan.png ajoutée au dossier : output
-image : the_witcher.jpg convertie en noir et blanc
-image : the_witcher.jpg ajoutée au dossier : output
-image : the_witcher.jpg floutée
-image : the_witcher.jpg ajoutée au dossier : output
-image : the_witcher.jpg ajoutée au dossier : output
-image : among_us.png convertie en noir et blanc
-image : among_us.png ajoutée au dossier : output
-image : among_us.png floutée
-image : among_us.png ajoutée au dossier : output
-image : among_us.png ajoutée au dossier : output
-image : schtroumpfette.jpg convertie en noir et blanc
-image : schtroumpfette.jpg ajoutée au dossier : output
-image : schtroumpfette.jpg floutée
-image : schtroumpfette.jpg ajoutée au dossier : output
-image : schtroumpfette.jpg ajoutée au dossier : output
-image : panpan.png floutée
-image : panpan.png ajoutée au dossier : output
