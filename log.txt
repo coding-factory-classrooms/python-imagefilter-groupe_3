@@ -49,3 +49,5 @@ image : schtroumpfette.jpg ajoutée au dossier : output
 image : schtroumpfette.jpg floutée
 image : schtroumpfette.jpg ajoutée au dossier : output
 image : schtroumpfette.jpg ajoutée au dossier : output
+image : panpan.png floutée
+image : panpan.png ajoutée au dossier : output
